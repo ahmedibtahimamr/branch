@@ -1,0 +1,14 @@
+
+## Description
+
+- `index.html`: The main HTML file that includes the SVG clock and links to the CSS and JavaScript files.
+- `style.css`: The CSS file that styles the clock.
+- `script.js`: The JavaScript file that updates the clock hands every second.
+- `README.md`: This file providing an overview of the project.
+
+## Usage
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/yourusername/animated-clock.git
